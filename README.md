@@ -97,7 +97,7 @@ Estoy abierto a feedback, PRs y proyectos en conjunto. Si alguna idea te vibra, 
 
 ---
 
-### 🇺🇸 English (short)
+### 🇺🇸 English
 
 Hi! I’m **Duván**, a web dev student and founder of **NexversD**. I build frontends with strong identity and game‑like experiences (Java for logic). I’m currently shipping a survival resource manager, a Pokédex battle sim, and a polished landing with a custom design system. Let’s collaborate!
 
