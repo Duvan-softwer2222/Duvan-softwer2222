@@ -46,7 +46,7 @@
 * **Rol:** backend/logic
 * **Highlights:** gestión de recursos, crafting, eventos, y economía simple; enfoque en arquitectura limpia y pruebas
 * **Stack:** **Java**, IntelliJ
-* **Repo:** `[👉https://github.com/Duvan-softwer2222/Sistema-de-Gestion-de-Recursos-en-juego-e-Supervivencia`
+* **Repo:** `👉https://github.com/Duvan-softwer2222/Sistema-de-Gestion-de-Recursos-en-juego-e-Supervivencia`
 
 ---
 
@@ -60,9 +60,9 @@
 
 ## 📌 Quick Links 
 
-* 🌐 Portafolio web: `https://tu-dominio-o-pages`
+* 🌐 Portafolio web: `https://github.com/Duvan-softwer2222`
 * 🐙 GitHub: `https://github.com/Duvan-softwer2222`
-* 💼 LinkedIn: `https://www.linkedin.com/in/tu-usuario` (opcional)
+* 💼 LinkedIn: `https://www.linkedin.com`
 * 💬 Discord (NexversD): `Proximamente`
 
 ---
