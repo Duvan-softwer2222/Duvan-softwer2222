@@ -58,26 +58,16 @@
 
 ---
 
-### 4) Herramientas de Inventario (Excel + VBA)
-
-* **Rol:** automatización y macros
-* **Highlights:** actualización automática de tablas dinámicas, botón “Actualizar Resumen”, estructura de inventario (PLU, precio, cantidad, talla, estado)
-* **Repo:** `👉 próximamente en este perfil`
-
----
-
-## 📌 Quick Links (coloca los tuyos)
+## 📌 Quick Links 
 
 * 🌐 Portafolio web: `https://tu-dominio-o-pages`
 * 🐙 GitHub: `https://github.com/Duvan-softwer2222`
 * 💼 LinkedIn: `https://www.linkedin.com/in/tu-usuario` (opcional)
-* 💬 Discord (NexversD): `invita-tu-servidor`
-
-> Si aún no tienes algunos de estos, puedo ayudarte a crearlos y conectarlos a tu README.
+* 💬 Discord (NexversD): `Proximamente`
 
 ---
 
-## 📊 Stats (se actualizan solas)
+## 📊 Stats 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Duvan-softwer2222\&show_icons=true)
 
@@ -85,15 +75,12 @@
 
 ---
 
-## 🗂️ Repos sugeridos para fijar (pinned)
+## 🗂️ Repos spinned
 
 * `nexversd-landing`
 * `survival-resource-manager-java`
 * `pokedex-battle-sim`
-* `excel-inventario-vba`
-
-> Cuando crees o renombres estos repos, fíjalos (“Pin”) en tu perfil para que queden arriba.
-
+* 
 ---
 
 ## 🧠 Filosofía de trabajo
@@ -107,15 +94,6 @@
 ## 🤝 ¿Colaboramos?
 
 Estoy abierto a feedback, PRs y proyectos en conjunto. Si alguna idea te vibra, **ábreme un Issue** o contáctame por Discord.
-
----
-
-## 📝 Cómo usar este README
-
-1. Copia este contenido en un repo llamado **`Duvan-softwer2222`** (debe tener exactamente tu nombre de usuario en GitHub).
-2. Dentro de ese repo, crea un archivo **`README.md`** y pega este contenido.
-3. Ajusta los enlaces de **Quick Links** y agrega los de tus repos reales.
-4. Fija (Pin) tus repos más representativos.
 
 ---
 
