@@ -46,7 +46,7 @@
 * **Rol:** backend/logic
 * **Highlights:** gestión de recursos, crafting, eventos, y economía simple; enfoque en arquitectura limpia y pruebas
 * **Stack:** **Java**, IntelliJ
-* **Repo:** `👉 próximamente en este perfil`
+* **Repo:** `[👉https://github.com/Duvan-softwer2222/Sistema-de-Gestion-de-Recursos-en-juego-e-Supervivencia`
 
 ---
 
@@ -54,7 +54,7 @@
 
 * **Rol:** full‑stack (lógica + interfaz)
 * **Highlights:** catálogo, stats y sistema de combate con habilidades; búsqueda y filtros
-* **Repo:** `👉 próximamente en este perfil`
+* **Repo:** `👉 https://github.com/Duvan-softwer2222/Pok-dex`
 
 ---
 
