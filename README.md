@@ -80,7 +80,7 @@
 * `nexversd-landing`
 * `survival-resource-manager-java`
 * `pokedex-battle-sim`
-* 
+  
 ---
 
 ## 🧠 Filosofía de trabajo
